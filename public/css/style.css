@@ -1,0 +1,11 @@
+body{
+    background: rgba(255, 192, 203, 0.418);
+}
+
+label.error {
+color:red;
+display: inline;
+position: relative;
+top: 0px;
+left: 0px;
+}
